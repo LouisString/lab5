@@ -1,0 +1,120 @@
+﻿  y64asm.c
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(12): error C2061: 语法错误: 标识符“word_t”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(12): error C2059: 语法错误:“;”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(62): error C2061: 语法错误: 标识符“int64_t”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(65): error C2059: 语法错误:“}”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(69): error C2061: 语法错误: 标识符“bin_t”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(73): error C2059: 语法错误:“}”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(78): error C2061: 语法错误: 标识符“int64_t”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(79): error C2371: “next”: 重定义；不同的基类型
+  e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(72): note: 参见“next”的声明
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(80): error C2059: 语法错误:“}”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(84): error C2061: 语法错误: 标识符“bin_t”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(86): error C2371: “next”: 重定义；不同的基类型
+  e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(72): note: 参见“next”的声明
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.h(87): error C2059: 语法错误:“}”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(8): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(9): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(12): error C2010: “.”: 宏形参表中的意外
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(20): error C2061: 语法错误: 标识符“vmaddr”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(20): error C2059: 语法错误:“;”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(20): error C2513: “ ”: 在“=”前没有声明变量
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(98): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(109): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(112): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(112): warning C4047: “函数”:“const char *”与“std::size_t”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(112): warning C4024: “strncmp”: 形参和实参 2 的类型不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(112): error C2198: “strncmp”: 用于调用的参数太少
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(114): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(131): error C2065: “symbol_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(131): error C2065: “symbol_tail”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(131): warning C4552: “*”: 运算符不起任何作用；应输入带副作用的运算符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(134): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(134): warning C4047: “函数”:“const char *”与“std::size_t”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(134): warning C4024: “strncmp”: 形参和实参 2 的类型不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(134): error C2198: “strncmp”: 用于调用的参数太少
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(137): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(138): error C2065: “symbol_tail”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(138): warning C4047: “=”:“int”与“int *”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(143): error C2065: “symbol_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(143): error C2065: “symbol”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(143): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(144): error C2065: “symbol”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(144): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(145): error C2065: “symbol”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(145): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(148): error C2065: “symbol_tail”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(148): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(148): error C2065: “symbol”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(154): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(165): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(165): error C2081: “bin_t”: 形参表中的名称非法
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(165): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(165): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(166): error C2054: 在“bin”之后应输入“(”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(434): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(434): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(434): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(435): error C2054: 在“line”之后应输入“(”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(472): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(472): error C2297: “*”: 非法，右操作数包含“int *”类型
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(487): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(487): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(488): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(490): error C2223: “->type”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(491): error C2223: “->y64asm”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(492): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(494): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(498): warning C4013: “parse_line”未定义；假设外部返回 int
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(485): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(516): error C2065: “reloc_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(516): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(516): warning C4047: “=”:“int”与“void *”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(516): error C2106: “=”: 左操作数必须为左值
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(518): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(518): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(519): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(525): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(525): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(563): error C2143: 语法错误: 缺少“)”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(563): error C2143: 语法错误: 缺少“{”(在“*”的前面)
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(563): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(564): error C2054: 在“line”之后应输入“(”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(591): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(591): error C2065: “tmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(591): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(592): error C2065: “tmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(592): warning C4047: “!=”:“int”与“void *”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(593): warning C4013: “print_line”未定义；假设外部返回 int
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(593): error C2065: “tmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(594): error C2065: “tmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(594): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(601): error C2065: “reloc_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(601): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(602): error C2065: “reloc_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(604): error C2065: “symbol_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(604): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(605): error C2065: “symbol_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(607): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(607): error C2059: 语法错误:“)”
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(608): error C2065: “line_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(615): error C2065: “reloc_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(615): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(615): warning C4047: “=”:“int”与“void *”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(615): error C2106: “=”: 左操作数必须为左值
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(617): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(617): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(618): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(619): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(619): error C2198: “free”: 用于调用的参数太少
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(621): error C2065: “rtmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(621): warning C4047: “=”:“int *”与“int”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(624): error C2065: “symbol_t”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(624): error C2065: “stmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(624): warning C4047: “=”:“int”与“void *”的间接级别不同
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(624): error C2106: “=”: 左操作数必须为左值
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(626): error C2065: “stmp”: 未声明的标识符
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(626): error C2223: “->next”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(627): error C2223: “->name”的左侧必须指向结构/联合
+e:\课程相关文件\grade 2\计算机系统\homeworks\lab5\y64asm.c(627): fatal error C1003: 错误计数超过 100；正在停止编译
